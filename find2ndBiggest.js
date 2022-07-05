@@ -5,8 +5,8 @@ const count = {};
 
 //1
 
-// let max1 = Number.MIN_VALUE;
-// let max2 = Number.MIN_VALUE;
+// let max1 = arr[0];
+// let max2 = arr[0];
 
 // for (let i = 0; i < arr.length; i++) {
 //     if (!(arr[i] in count)) count[arr[i]] = 1;
