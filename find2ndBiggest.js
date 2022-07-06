@@ -3,7 +3,7 @@ const arr = [1, 3, 3, 3, 4, 5, 5, 5, 8, 8];
 
 const count = {};
 
-//1
+//Cach 1: Fix loi chieu qua
 
 // let max1 = arr[0];
 // let max2 = arr[0];
@@ -25,7 +25,7 @@ const count = {};
 // console.log(max2, count[max2]);
 
 
-//2
+//Cach 2: 
 for (let i = 0; i < arr.length; i++) {
     if (!(arr[i] in count)) count[arr[i]] = 1;
     else {
